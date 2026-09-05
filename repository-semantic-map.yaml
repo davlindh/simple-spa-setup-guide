@@ -1,0 +1,12 @@
+version: 1
+repository: davlindh/simple-spa-setup-guide
+purpose: Technical scaffolding and SPA setup reference.
+status: technical-reference
+canonical_parent: null
+capabilities: [spa-scaffolding, frontend-setup]
+vertical: development-infrastructure
+omniframez_role: scaffolding-reference
+evidence: {confidence: inferred, sources: [repository-name]}
+harvest_action: retain-as-reference
+relations:
+  - supports: frontend implementation practices
